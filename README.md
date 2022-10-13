@@ -9,7 +9,7 @@ Scarlot
 -----------
 OS:        Windows
 DE:        Full stack Nodejs coder from Germany
-Discord:   711712752246325343
+Discord:   902313445121212536
 Skills:    JavaScript, Lua, Typescript
 Packages:  Dscbots.js
 Discords:  Dscbots.js, lestige, groupcord
