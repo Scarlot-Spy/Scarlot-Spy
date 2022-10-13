@@ -5,11 +5,10 @@ Information
 <img src="SHEEP.jpg" align="left" width=200>
 
 ```ts
-Ducko
+Scarlot
 -----------
 OS:        Windows
 DE:        Full stack Nodejs coder from Germany
-Uptime:    **5*13*534*12*14** years
 Discord:   711712752246325343
 Skills:    JavaScript, Lua, Typescript
 Packages:  Dscbots.js
