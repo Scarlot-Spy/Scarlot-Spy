@@ -2,7 +2,7 @@
 Information
 ```
 
-<img src="SHEEP.jpg" align="left" width=200>
+<img src="SHEEP.jpg" style="border-radius: 30px;" align="left" width=200>
 
 ```ts
 Scarlot
