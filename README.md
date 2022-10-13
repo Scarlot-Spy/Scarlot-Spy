@@ -2,7 +2,7 @@
 Information
 ```
 
-<img src="SHEEP.png" align="left" width=200>
+<img src="SHEEP.jpg" align="left" width=200>
 
 ```ts
 Ducko
