@@ -28,5 +28,5 @@ Stats
   <img src="https://komarev.com/ghpvc/?username=Scarlot-Spy&color=5865f2&style=for-the-badge">
 </a>
 
-[![stars](https://img.shields.io/github/stars/Scarlot-Spy?color=5865f2&label=stars&style=for-the-badge)](https://github.com/DuckoDas/)
-[![followers](https://img.shields.io/github/followers/Scarlot-Spy?color=5865f2&style=for-the-badge)](https://github.com/DuckoDas/)
+[![stars](https://img.shields.io/github/stars/Scarlot-Spy?color=5865f2&label=stars&style=for-the-badge)](https://github.com/Scarlot-Spy/)
+[![followers](https://img.shields.io/github/followers/Scarlot-Spy?color=5865f2&style=for-the-badge)](https://github.com/Scarlot-Spy/)
